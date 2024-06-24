@@ -1,5 +1,6 @@
 # PeacePulse-Game
-VR Exposure Therapy for post-traumatic stress disorder (PTSD) in Children Affected by War.
+VR Exposure Therapy for post-traumatic stress disorder (PTSD) in Children Affected by War.  
+you can find paper [here](https://drive.google.com/file/d/16tn-Fg-gtDetuB5CfUqmm8NEx2P8bYn_/view?usp=sharing)  .
 
 ## Therapy Protocol
 Traumatic events are explored slowly, with questioning of multiple sensory, cognitive, emotional, and physiological information.  
