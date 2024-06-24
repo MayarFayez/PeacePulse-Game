@@ -19,7 +19,28 @@ A rope serves as a symbol of the child's life with stones and flowers, in differ
 ### Body Pose Tracking 
 -Analyze and track a person's body movements in real-time.  
 -Therapists can use the real-time body tracking data to provide feedback to the patient.  
-![image](https://github.com/MayarFayez/PeacePulse-Game/assets/93496610/f9f9ceb2-d2d7-48ef-86ef-8c9d172404ce)
+![image](https://github.com/MayarFayez/PeacePulse-Game/assets/93496610/f9f9ceb2-d2d7-48ef-86ef-8c9d172404ce)  
+# Game
+##  User Interface
+![Screenshot (1505)](https://github.com/MayarFayez/PeacePulse-Game/assets/93496610/d65d7768-1ce8-4da5-9084-384a15b33b65)
+## Life-Line Scene
+the Life-Line scene where a rope on the floor serves as a symbol of the child's 
+life, the stones and flowers are offered to the child in the game and asked to place them on the 
+rope, the hand interaction in this scene makes the game more realistic.   
+![Screenshot (1506)](https://github.com/MayarFayez/PeacePulse-Game/assets/93496610/11461eca-b5ff-4e12-be10-dc3d06d5326a)  
+## Exposure Scenes
+In the exposure scenes, the child is exposed to various sound levels, including car noises (ice-cream truck) and fireworks, with the intention of triggering PTSD responses. These auditory 
+stimuli are carefully selected to simulate real-world triggers commonly experienced.  
+![Screenshot (1507)](https://github.com/MayarFayez/PeacePulse-Game/assets/93496610/a456b685-8890-49c5-a72b-5cd1e9be7fed)  
+## Anxiety Managment Scene
+The last scene in this game is the anxiety management scene which has the breathing exercise.Upon detection of any signs of great distress using pose tracker 
+algorithm, the child will be seamlessly transitioned to this scene to ensure timely intervention 
+and provides the child with immediate access to the therapeutic benefits of our Virtual Reality 
+Exposure Therapy (VRET) game.
+ ![Screenshot (1508)](https://github.com/MayarFayez/PeacePulse-Game/assets/93496610/8af1a59b-db45-442b-a957-8161ef1da42f)
+
+### The game demo is available [Here](https://drive.google.com/file/d/1_coDoH3ZXtyqiQQxou2WtQwoe3b9Yr-Q/view?usp=drive_link). 
+
 
 
 
